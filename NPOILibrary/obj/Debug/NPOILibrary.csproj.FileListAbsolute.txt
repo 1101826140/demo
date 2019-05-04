@@ -1,0 +1,5 @@
+E:\ConsoleApplication\NPOILibrary\bin\Debug\NPOILibrary.dll
+E:\ConsoleApplication\NPOILibrary\bin\Debug\NPOILibrary.pdb
+E:\ConsoleApplication\NPOILibrary\obj\Debug\NPOILibrary.csprojResolveAssemblyReference.cache
+E:\ConsoleApplication\NPOILibrary\obj\Debug\NPOILibrary.dll
+E:\ConsoleApplication\NPOILibrary\obj\Debug\NPOILibrary.pdb
