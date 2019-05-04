@@ -1,0 +1,4 @@
+E:\ConsoleApplication\OLEDBLibrary\bin\Release\OLEDBLibrary.dll
+E:\ConsoleApplication\OLEDBLibrary\bin\Release\OLEDBLibrary.pdb
+E:\ConsoleApplication\OLEDBLibrary\obj\Release\OLEDBLibrary.dll
+E:\ConsoleApplication\OLEDBLibrary\obj\Release\OLEDBLibrary.pdb

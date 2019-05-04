@@ -1,0 +1,7 @@
+E:\ConsoleApplication\OpenXmlLibrary\bin\x86\Release\OpenXmlLibrary.dll
+E:\ConsoleApplication\OpenXmlLibrary\bin\x86\Release\OpenXmlLibrary.pdb
+E:\ConsoleApplication\OpenXmlLibrary\bin\x86\Release\DocumentFormat.OpenXml.dll
+E:\ConsoleApplication\OpenXmlLibrary\bin\x86\Release\DocumentFormat.OpenXml.xml
+E:\ConsoleApplication\OpenXmlLibrary\obj\x86\Release\OpenXmlLibrary.csprojResolveAssemblyReference.cache
+E:\ConsoleApplication\OpenXmlLibrary\obj\x86\Release\OpenXmlLibrary.dll
+E:\ConsoleApplication\OpenXmlLibrary\obj\x86\Release\OpenXmlLibrary.pdb

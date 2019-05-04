@@ -1,0 +1,6 @@
+E:\ConsoleApplication\OpenXmlLibrary\bin\x86\Debug\OpenXmlLibrary.dll
+E:\ConsoleApplication\OpenXmlLibrary\bin\x86\Debug\OpenXmlLibrary.pdb
+E:\ConsoleApplication\OpenXmlLibrary\bin\x86\Debug\DocumentFormat.OpenXml.dll
+E:\ConsoleApplication\OpenXmlLibrary\bin\x86\Debug\DocumentFormat.OpenXml.xml
+E:\ConsoleApplication\OpenXmlLibrary\obj\x86\Debug\OpenXmlLibrary.dll
+E:\ConsoleApplication\OpenXmlLibrary\obj\x86\Debug\OpenXmlLibrary.pdb

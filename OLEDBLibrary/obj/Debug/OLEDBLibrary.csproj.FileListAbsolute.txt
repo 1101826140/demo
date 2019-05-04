@@ -1,0 +1,5 @@
+E:\ConsoleApplication\OLEDBLibrary\bin\Debug\OLEDBLibrary.dll
+E:\ConsoleApplication\OLEDBLibrary\bin\Debug\OLEDBLibrary.pdb
+E:\ConsoleApplication\OLEDBLibrary\obj\Debug\OLEDBLibrary.csprojResolveAssemblyReference.cache
+E:\ConsoleApplication\OLEDBLibrary\obj\Debug\OLEDBLibrary.dll
+E:\ConsoleApplication\OLEDBLibrary\obj\Debug\OLEDBLibrary.pdb

@@ -3,3 +3,22 @@
 ################################################################################
 
 /CalculatorDemo/bin/Debug
+/CalculatorDemo/obj/Debug
+/ConsoleApplication/bin
+/ConsoleApplication/obj
+/ConsoleDemo/bin/Debug
+/ConsoleDemo/obj/Debug
+/DapperLibrary/bin
+/DapperLibrary/obj
+/ExcelDataReaderLibrary/bin/Debug
+/ExcelDataReaderLibrary/obj/Debug
+/packages
+/UnitTestProject1/bin
+/UnitTestProject1/obj
+/WebApi/bin
+/WebApi/obj
+/WebFormDemo/bin
+/WebFormDemo/obj/Debug
+/WinformDemo/bin/Debug
+/WinformDemo/obj/Debug
+/.vs
