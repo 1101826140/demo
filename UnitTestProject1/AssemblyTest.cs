@@ -19,7 +19,9 @@ namespace UnitTestProject1
             Assembly assembly = Assembly.Load("OLEDBLibrary.ExcelHelper");
 
             Type type = assembly.GetType();
-            string abc = "sd";
+            //string abc = "sd";
+
+            bool test = false;
         }
 
 
